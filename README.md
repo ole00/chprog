@@ -14,10 +14,10 @@ This one combines code from other projects:
   figure it out.
 
 Supported are Write, Verify and Reset for all supported bootloader versions:
-1.0, 2.3.1, 2.4.0
+1.0, 2.3.1, 2.4.0, 2.5.0
 
 Tested on:
-* CH552T, BL: 1.0, 2.3.1, 2.4.0
+* CH552T, BL: 1.0, 2.3.1, 2.4.0, 2.5.0
 * CH551G, BL: 2.3.1
 
 Usage is quite simple:
