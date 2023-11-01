@@ -44,3 +44,13 @@ IMPORTANT: On Windows you need to install a Libusb driver:
 * unplug and plug-in the CH55x board to your PC
 * optionally verify in device manager that the 'USB Module' device is displayed
   in 'USB Serial Bus devices' - not in 'USB Serial Bus controllers'! 
+
+
+**macOS port**
+Chprog can be used on macOS. You need to manually install libusb
+driver. The simplest way is using brew, and the `build_macos.sh`expect
+libusb to be installed by brew. 
+
+```
+brew install libusb
+```
